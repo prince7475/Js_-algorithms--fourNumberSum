@@ -28,4 +28,4 @@ function fourNumberSum(array,target){
     return (result)
 }
 
-exports.fourNumberSum = fourNumberSum
+exports.fourNumberSum = fourNumberSum 
