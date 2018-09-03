@@ -1,5 +1,5 @@
 const chai = require('chai')
-const program = require('./fourNumberSum')
+const program = require('./SecondGo')
 
 function sortAndStringify(array) {
     return array.sort((a, b) => a - b).join(",");

@@ -11,5 +11,3 @@ Average: 0 (n^2) time | 0 (n^2) space - where n is the length of the input array
 Worst: 0 (n^3) time | 0 (n^2) space - where n is the length of the input array
 
 To run test: 'npm test'
-
-​
