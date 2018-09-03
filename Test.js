@@ -5,7 +5,7 @@ function sortAndStringify(array) {
     return array.sort((a, b) => a - b).join(",");
   }
 
-describe('Three sums', function () {
+describe('Four sums', function () {
 
     it('Test #1', function() {
     let output = program.fourNumberSum([1, 2, 3, 4, 5, 6, 7], 10);
